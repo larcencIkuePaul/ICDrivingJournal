@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AD10CHT.iml" filepath="$PROJECT_DIR$/AD10CHT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ad10cht/ad10cht.iml" filepath="$PROJECT_DIR$/ad10cht/ad10cht.iml" />
+    </modules>
+  </component>
+</project>

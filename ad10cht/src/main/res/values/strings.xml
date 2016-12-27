@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AD10 CHT</string>
+    <string name="accel_title">Accelerometer</string>
+    <string name="x_axis_title">X-Axis:</string>
+    <string name="y_axis_title">Y-Axis:</string>
+    <string name="z_axis_title">Z-Axis:</string>
+    <string name="accel_unit">m/s^2</string>
+    <string name="system_event_title">System Event</string>
+</resources>
